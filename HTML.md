@@ -35,11 +35,12 @@ HTML은 웹페이지를 위한 <b>마크업 언어</b>이다.
 ## dl 
 > ### dt 
 > ### dd 
+<img src="./images/html/dl.PNG" width="170" height="300">
 
 # 텍스트
 
 ## h1 ~ h6
-제목을 나타낼 때 스임
+제목을 나타낼 때 쓰임
 ## a 
 페이지 이동이 필요할 때 쓰임 
 ## p 
@@ -69,7 +70,9 @@ HTML은 웹페이지를 위한 <b>마크업 언어</b>이다.
 # 폼 
 ## form 
 > input 
+
 > textarea
+
 > button
 
 > select
