@@ -29,8 +29,11 @@ HTML은 웹페이지를 위한 <b>마크업 언어</b>이다.
 
 ## div
 
-## ul,ol
+## ul, ol
+ol 은 옆에 숫자가 적힘
 > ### li
+<img src="./images/html/ul.PNG" width="170" height="300">
+<img src="./images/html/ol.PNG" width="170" height="300">
 
 ## dl 
 > ### dt 
@@ -69,7 +72,13 @@ HTML은 웹페이지를 위한 <b>마크업 언어</b>이다.
 
 # 폼 
 ## form 
+form태그에는 action, method 속성이 들어가야한다.        
+form태그 안에 들어가는 input, textarea, select 태크에는 name 속성이 들어가야한다.
+
 > input 
+
+input 태그에는 type이라는 속성이 들어간다.      
+type 속성은 종류는 알아서 검색
 
 > textarea
 
@@ -77,6 +86,25 @@ HTML은 웹페이지를 위한 <b>마크업 언어</b>이다.
 
 > select
 >> option 
+
+</details>
+
+
+<details>
+  
+<summary>자주 쓰는 속성</summary>
+
+## id 
+중복은 불가능하다.
+
+## class 
+중복 가능.
+
+## target 
+a 태그에서 쓰인다.
+
+## title 
+a, img, input, icon, 긴 내용이 있는 태그에 쓰인다.
 
 
 
